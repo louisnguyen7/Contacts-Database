@@ -1,9 +1,3 @@
-/* 
-
-© 2024 Louis Nguyen. All rights reserved. 
-
-*/
-
 #include "../include/nguyenLouisHeader.h"
 #include <ctype.h> // this library is included to use the tolower() function
 
