@@ -1,9 +1,3 @@
-/* 
-
-© 2024 Louis Nguyen. All rights reserved. 
-
-*/
-
 #include "../include/nguyenLouisHeader.h"
 
 int searchContacts(char * fileName, int keyId)
